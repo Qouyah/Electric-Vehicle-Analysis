@@ -6,5 +6,29 @@ This repository hosts an interactive dashboard designed to visualize the distrib
 
 ### Data Sources
 
-Electric Vehicle Population Data: The primary dataset used for this analysis is the "Electric_Vehicle_PopulationData.csv" file, containing detailed information about Electric Vehicle.
+Electric Vehicle Population Data: The primary dataset used for this analysis is the "Electric_Vehicle_PopulationDataset.xlsb" file, containing detailed information about Electric Vehicle.
+
+### Tools
+
+- Excel - Data cleaning
+- PowerBI - Creating reports
+  
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase, i performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
+
+
+### Features
+
+1. **Interactive Visualization** 
+2. **Filtering Options** 
+3. **Key Metrics**
+
+## Link to view the Dynamic Dashboard
+[Click here]() to view
+
 
